@@ -86,6 +86,7 @@ ggplot(data=Whickham, aes(x=smoker, y=outcome, color=outcome)) + geom_bar(stat="
 
 ```
 answer:With an increase in the incidence of smoking and their persistence, this will lead to death as their health worsens with the passage of days
+
 Knit, commit, and push to github.
 
 5. 
